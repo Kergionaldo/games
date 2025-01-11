@@ -1,11 +1,14 @@
 # games
+Games and Animations
 
-Jogo.py: Um jogo em Python utilizando Tkinter
-  Objetos: bola e raquete
-  Objetivo: impedir que a bola caia rebatendo com a raquete
-  
-jogo FROGGER.cpp: Um jogo em C utilizando OpenGL/GLUT
-  Objetivo: fazer o sapo passar no trânsito até o final
- 
-Astros.js: Uma animação em JavaScript utilizando p5.js
-  Mostra a rotação da Terra em volta do Sol e a Lua em volta da Terra
+Jogo.py:
+is a 2d game written in Python using the graphics library Tkinter.
+The objective is to not let the bouncing ball falls down by moving the bar.
+
+Astros.js:
+is a animation written in Javascript using the p5.js library for 2d graphics on HTML5 Canvas.
+The animation shows astros (Earth, Moon and Mars) translating around the Sun with their own orbit lines.
+
+FROGGER.c:
+is a 2d game written in C using OpenGL to show simple graphics with GLUT features.
+The objective is the move up the frogger to the other side of the transit way.
